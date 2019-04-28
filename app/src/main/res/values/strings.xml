@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">ניהול עובדים</string>
+
+    <string name="insert">הוסף</string>
+    <string name="delete">הסר</string>
+    <string name="update">עדכן</string>
+
+    <string name="id">תעודת זהות</string>
+    <string name="name">שם העובד</string>
+    <string name="phone">פלאפון</string>
+    <string name="startDate">תחילת עבודה</string>
+
+    <string name="dialog_confirm">אישור</string>
+    <string name="dialog_cancel">ביטול</string>
+    <string name="dialog_question">האם אתה בטוח שברצונך להסיר את העובד/ים המסומנ/ים?</string>
+
+</resources>

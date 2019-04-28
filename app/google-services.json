@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490148632838",
+    "firebase_url": "https://assaf-zfani-employeemanagement.firebaseio.com",
+    "project_id": "assaf-zfani-employeemanagement",
+    "storage_bucket": "assaf-zfani-employeemanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490148632838:android:e397b81bcc6a3be6",
+        "android_client_info": {
+          "package_name": "zfani.assaf.employeemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490148632838-41ucme1rk5udtsguev8opf5521fqijhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "zfani.assaf.employeemanagement",
+            "certificate_hash": "021d1e6f855acd0ac66a58d7d4e312555c8fbc4a"
+          }
+        },
+        {
+          "client_id": "490148632838-nfjoddtgbmbqstbh0g13i605enl4u6q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXnU7o0oyf5Hq7Kanzb9skqmwEhHKIOUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490148632838-nfjoddtgbmbqstbh0g13i605enl4u6q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
